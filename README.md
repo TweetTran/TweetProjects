@@ -48,6 +48,7 @@
     - Handle multiline text for job details using Text
     - Convert the application into an executable with pyinstaller
 
+
 * **Data Requirements:**
   - Stored Data:
     - Job Applications Table (applications)
@@ -66,6 +67,9 @@
     - Data is retrieved from the SQLite database using SQL queries
     - The Treeview widget dynamically updates to display data
     - get_children() is used to retrieve all records for updating the UI
+      
+* To the project: [Job Tracker]()
+* [Projects Menu](#Project_Menu)
 
 ### **Dog_Zommie_Toy**
 * **Technical Specifications:**
