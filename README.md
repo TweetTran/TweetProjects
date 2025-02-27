@@ -1,9 +1,13 @@
 # <ins>***Table of Content***</ins>
 ## [Intro - About Me](#Intro-AboutMe)
 ## [Projects Menu](#Project-Menu)
-## <details>
+## <details> 
   <summary>Example</summary>
   This is a dropdown with text! More text please.
+  <summary>Example1</summary>
+  <summary>Example2</summary>
+  <summary>Example3</summary>
+  <summary>Example4</summary>
 </details>
 
 
