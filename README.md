@@ -1,7 +1,7 @@
 # <ins>***Table of Content***</ins>
 ## [Intro - About Me](#Intro_AboutMe)
 ## [Projects Menu](#Project_Menu)
-<details>
+## <details>
   <summary>Projects Menu</summary>
   <ul>
     <li><a href="#Job_Tracker">Job Tracker</a></li>
