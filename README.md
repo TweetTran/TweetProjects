@@ -67,10 +67,9 @@
     - Data is retrieved from the SQLite database using SQL queries
     - The Treeview widget dynamically updates to display data
     - get_children() is used to retrieve all records for updating the UI
-      
-> [To the project](https://github.com/TweetTran/Tweet_Projects/tree/main/Job%20Tracker%20Project)
-> -
-> [Projects Menu](#Project_Menu)
+
+ <sup></sup><sub>[To the project](https://github.com/TweetTran/Tweet_Projects/tree/main/Job%20Tracker%20Project)</sub>
+ <sup></sup><sub>[Back to Menu](#Project_Menu)</sub>
 
 ### **Dog_Zommie_Toy**
 * **Technical Specifications:**
