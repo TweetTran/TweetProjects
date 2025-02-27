@@ -2,9 +2,9 @@
 ## [Intro - About Me](#Intro_AboutMe)
 ## [Projects Menu](#Project_Menu)
 <details>
-<summary>[Projects Menu](#Project_Menu)</summary>
-<ul><li>[Job Tracker](#Job_Tracker)</li>
-<li>[Dog Zommie Toy](#Dog_Zommie_Toy)</li></ul>
+<summary> [Projects Menu](#Project_Menu) </summary>
+<ul><li> [Job Tracker](#Job_Tracker) </li>
+<li> [Dog Zommie Toy](#Dog_Zommie_Toy) </li></ul>
 </details>
 
 
