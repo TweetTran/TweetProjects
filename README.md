@@ -18,8 +18,9 @@
   - Software:
     - Python (Primary programming language),
     - Tkinter (GUI library for interface),
+    - SQL (Structured Query Language),
     - SQLite (Database for storing job application records),
-    - PyInstaller (For converting the script into an executable).
+    - PyInstaller (For converting the script into an executable program).
   - Hardware:
     - Windows/macOS/Linux PC with Python installed,
     - Sufficient RAM and storage for running a GUI application,
@@ -32,7 +33,7 @@
   - User Interface (GUI):
     - Display a table of job applications in a Treeview widget
     - Provide input fields for adding new applications
-    - Include buttons for adding, updating, deleting, and searching job applications
+    - Include buttons for adding, updating, deleting, and searching (CRUD)
   - Database Operations:
     - Store job applications with fields: ID, Job Name, Company Name, Applied Date, Resume Used, Details
     - Allow inserting new job applications
@@ -41,7 +42,7 @@
   - Application Features:
     - Arrange widgets using .pack() and .grid()
     - Use a scrollbar to navigate application records
-    - Handle multiline text for job details using Text instead of Entry
+    - Handle multiline text for job details using Text
     - Convert the application into an executable with pyinstaller
 
 * **Data Requirements:**
