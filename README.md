@@ -4,7 +4,7 @@
 ## <[Projects Menu](#Project_Menu)><summary>Example</summary> This is a dropdown with text! More text please. <summary>Example1</summary> <summary>Example2</summary> <summary>Example3</summary><summary>Example4</summary></details>
 
 
-## <[Projects Menu](#project_menu)>
+<##[Projects Menu](#project_menu)>
   <summary>Example</summary>
   This is a dropdown with text! More text please.
   <ul>
