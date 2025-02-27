@@ -68,7 +68,7 @@
     - The Treeview widget dynamically updates to display data
     - get_children() is used to retrieve all records for updating the UI
       
-> To the project: [Job Tracker](https://github.com/TweetTran/Tweet_Projects/tree/main/Job%20Tracker%20Project)
+> [To the project](https://github.com/TweetTran/Tweet_Projects/tree/main/Job%20Tracker%20Project)
 > -
 > [Projects Menu](#Project_Menu)
 
