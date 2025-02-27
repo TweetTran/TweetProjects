@@ -59,6 +59,6 @@
  <sup></sup><sub>[Reference: Codemy.com](https://www.youtube.com/@Codemycom)</sub>
 
 ### **Dog_Zommie_Toy**
-* **Technical Specifications:**
 * **Functional Requirements:**
+* **Technical Specifications:**
 * **Data Requirements:**
