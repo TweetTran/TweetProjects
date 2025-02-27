@@ -1,7 +1,7 @@
 # <ins>***Table of Content***</ins>
-## * [Intro - About Me](#Intro - About Me)
-## * [Projects Menu](#Project - Menu)
-## * <[Projects Menu](#Project - Menu)> <summary>example</summary> This is a dropdown with text! more text please </details>
+* ##[Intro - About Me](#Intro - About Me)
+* ##[Projects Menu](#Project - Menu)
+* ##<[Projects Menu](#Project - Menu)> <summary>example</summary> This is a dropdown with text! more text please </details>
 
 
 # <ins>***Intro - About Me***</ins>
