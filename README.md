@@ -1,8 +1,8 @@
  <sup></sup><sub>Print("Hello World!")</sub>
 
 ### <ins>***Table of Content***</ins>
-   - [Intro - About Me](#Intro_AboutMe)
-   - [Projects Menu](#Project_Menu)
+   ###### [Intro - About Me](#Intro_AboutMe)
+   ###### [Projects Menu](#Project_Menu)
 
 
 ### <ins>***Intro_AboutMe***</ins>
@@ -12,8 +12,8 @@
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <ins>***Project_Menu***</ins>
-* [Job Tracker](#Job_Tracker)
-* [Dog Zommie Toy](#Dog_Zommie_Toy)
+###### [Job Tracker](#Job_Tracker)
+###### [Dog Zommie Toy](#Dog_Zommie_Toy)
 
 
 **Job_Tracker**
