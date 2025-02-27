@@ -12,14 +12,14 @@
 
 
 ### **Job_Tracker**
-**Technical Specifications:**
-**Functional Requirements:**
-**Data Requirements:**
+* **Technical Specifications:**
+* **Functional Requirements:**
+* **Data Requirements:**
 
 ### **Dog_Zommie_Toy**
-**Technical Specifications:**
-**Functional Requirements:**
-**Data Requirements:**
+* **Technical Specifications:**
+* **Functional Requirements:**
+* **Data Requirements:**
 
 
 
