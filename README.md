@@ -1,8 +1,8 @@
  <sup></sup><sub>Print("Hello World!")</sub>
 
 ### <ins>***Table of Content***</ins>
-[Intro - About Me](#Intro_AboutMe)
-[Projects Menu](#Project_Menu)
+   - [Intro - About Me](#Intro_AboutMe)
+   - [Projects Menu](#Project_Menu)
 
 
 ### <ins>***Intro_AboutMe***</ins>
