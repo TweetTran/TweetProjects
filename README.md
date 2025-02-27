@@ -11,15 +11,15 @@
 * [Dog Zommie Toy](#Dog_Zommie_Toy)
 
 
-## ***Job_Tracker***
-### Technical Specifications:
-### Functional Requirements:
-### Data Requirements:
+### **Job_Tracker**
+**Technical Specifications:**
+**Functional Requirements:**
+**Data Requirements:**
 
-## ***Dog_Zommie_Toy***
-### Technical Specifications:
-### Functional Requirements:
-### Data Requirements:
+### **Dog_Zommie_Toy**
+**Technical Specifications:**
+**Functional Requirements:**
+**Data Requirements:**
 
 
 
