@@ -69,6 +69,7 @@
     - get_children() is used to retrieve all records for updating the UI
       
 > To the project: [Job Tracker](https://github.com/TweetTran/Tweet_Projects/tree/main/Job%20Tracker%20Project)
+-
 > [Projects Menu](#Project_Menu)
 
 ### **Dog_Zommie_Toy**
