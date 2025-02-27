@@ -33,12 +33,12 @@
     - Display a table of job applications in a Treeview widget
     - Provide input fields for adding new applications
     - Include buttons for adding, updating, deleting, and searching job applications
- - Database Operations:
+  - Database Operations:
    - Store job applications with fields: ID, Job Name, Company Name, Applied Date, Resume Used, Details
    - Allow inserting new job applications
    - Enable updating and deleting existing records
    - Support searching by Job Name or Company Name
- - Application Features:
+  - Application Features:
    - Arrange widgets using .pack() and .grid()
    - Use a scrollbar to navigate application records
    - Handle multiline text for job details using Text instead of Entry
