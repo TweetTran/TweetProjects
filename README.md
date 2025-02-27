@@ -1,18 +1,10 @@
 # <ins>***Table of Content***</ins>
 ## [Intro - About Me](#Intro_AboutMe)
 ## [Projects Menu](#Project_Menu)
-## <[Projects Menu](#Project_Menu)><summary>Example</summary> This is a dropdown with text! More text please. <summary>Example1</summary> <summary>Example2</summary> <summary>Example3</summary><summary>Example4</summary></details>
-
-
-<##[Projects Menu](#project_menu)>
-  <summary>Example</summary>
-  This is a dropdown with text! More text please.
-  <ul>
-    <li>Example1</li>
-    <li>Example2</li>
-    <li>Example3</li>
-    <li>Example4</li>
-  </ul>
+<details>
+<summary>[Projects Menu](#Project_Menu)</summary>
+<ul><li>[Job Tracker](#Job_Tracker)</li>
+<li>[Dog Zommie Toy](#Dog_Zommie_Toy)</li></ul>
 </details>
 
 
