@@ -45,23 +45,23 @@
     - Convert the application into an executable with pyinstaller
 
 * **Data Requirements:**
- - Stored Data:
-   - Job Applications Table (applications)
-     - id: Integer (Unique identifier)
-     - job_name: Text (Job title)
-     - company_name: Text (Company name)
-     - applied_date: Text (Date format)
-     - resume_used: Text (File reference or resume version)
-     - detail: Text (Multiline description)
- - Data Processing:
-   - Insert new job records when the user submits a form
-   - Update an existing record based on ID
-   - Delete records individually or in bulk
-   - Search for applications based on job name or company name
- - Data Exchange:
-   - Data is retrieved from the SQLite database using SQL queries
-   - The Treeview widget dynamically updates to display data
-   - get_children() is used to retrieve all records for updating the UI
+  - Stored Data:
+    - Job Applications Table (applications)
+      - id: Integer (Unique identifier)
+      - job_name: Text (Job title)
+      - company_name: Text (Company name)
+      - applied_date: Text (Date format)
+      - resume_used: Text (File reference or resume version)
+      - detail: Text (Multiline description)
+  - Data Processing:
+    - Insert new job records when the user submits a form
+    - Update an existing record based on ID
+    - Delete records individually or in bulk
+    - Search for applications based on job name or company name
+  - Data Exchange:
+    - Data is retrieved from the SQLite database using SQL queries
+    - The Treeview widget dynamically updates to display data
+    - get_children() is used to retrieve all records for updating the UI
 
 ### **Dog_Zommie_Toy**
 * **Technical Specifications:**
