@@ -65,7 +65,7 @@ The last checkpoint loops back to the Base, forming a continuous string loop.
 The motor is attached to the string and rotates clockwise to unwind the string and counterclockwise to recoil it. It operates at random speeds and directions, creating unpredictable movement.
 The machine is activated by pressing a button and continues running until the button is pressed again to stop it.
 
- <sup></sup><sub>[To the project -](https://github.com/TweetTran/Tweet_Projects/tree/main/Job%20Tracker%20Project)</sub>
+ <sup></sup><sub>[To the project -](https://github.com/TweetTran/Tweet_Projects/tree/main/Zoomie%20Dog%20Toy)</sub>
  <sup></sup><sub>[Back to Menu -](#Project_Menu)</sub>
  <sup></sup><sub>[Reference: POPRHINO , ](https://www.wayfair.com/pet/pdp/poprhino-remote-control-pet-chase-toy-for-outdoor-exercise-training-suitable-for-dogs-pprh1035.html)</sub> 
  <sup></sup><sub>[Generic , ](https://www.amazon.com/Generic-Treadmill-Continuous-Backyard-Electric/dp/B0D9DJ76HB/ref=asc_df_B0D9DJ76HB?mcid=4ac98acad49133a795ebdc98ec5c1b75&tag=hyprod-20&linkCode=df0&hvadid=697654782231&hvpos=&hvnetw=g&hvrand=2403657064496655038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016168&hvtargid=pla-2336352648465&psc=1)</sub>
