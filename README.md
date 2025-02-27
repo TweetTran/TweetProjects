@@ -1,8 +1,10 @@
 # <ins>***Table of Content***</ins>
 ## [Intro - About Me](#Intro_AboutMe)
 ## [Projects Menu](#Project_Menu)
-## <details>
-  <summary>Projects Menu</summary>
+## Projects Menu
+
+<details>
+  <summary>Click to expand</summary>
   <ul>
     <li><a href="#Job_Tracker">Job Tracker</a></li>
     <li><a href="#Dog_Zommie_Toy">Dog Zommie Toy</a></li>
