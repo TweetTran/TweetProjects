@@ -1,4 +1,4 @@
- <sup></sup><sub>_____________Print("Hello World!")_______________________</sub>
+ <sup></sup><sub>-----------------------------------------------Print("Hello Internet!")------------------------------------------------------------------</sub>
 
 ### <ins>***Table of Content***</ins>
    ###### [Intro - About Me](#Intro_AboutMe)
