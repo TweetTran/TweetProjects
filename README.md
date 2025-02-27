@@ -28,7 +28,22 @@
     - Python 3.x installed,
     - Required libraries: tkinter, sqlite3, pyinstaller.
 
-* **Functional Requirements:**
+* **Functional Requirements**
+  - User Interface (GUI):
+    - Display a table of job applications in a Treeview widget
+    - Provide input fields for adding new applications
+    - Include buttons for adding, updating, deleting, and searching job applications
+ - Database Operations:
+   - Store job applications with fields: ID, Job Name, Company Name, Applied Date, Resume Used, Details
+   - Allow inserting new job applications
+   - Enable updating and deleting existing records
+   - Support searching by Job Name or Company Name
+ - Application Features:
+   - Arrange widgets using .pack() and .grid()
+   - Use a scrollbar to navigate application records
+   - Handle multiline text for job details using Text instead of Entry
+   - Convert the application into an executable with pyinstaller
+
 * **Data Requirements:**
 
 ### **Dog_Zommie_Toy**
