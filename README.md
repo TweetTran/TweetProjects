@@ -15,16 +15,16 @@
 
 ### **Job_Tracker**
 * **Technical Specifications:**
-> Software:
+> *Software:
 Python (Primary programming language),
 Tkinter (GUI library for interface),
 SQLite (Database for storing job application records),
 PyInstaller (For converting the script into an executable).
-> Hardware:
+> *Hardware:
 Windows/macOS/Linux PC with Python installed,
 Sufficient RAM and storage for running a GUI application,
 Keyboard and mouse for user interaction.
-> Technical Needs:
+> *Technical Needs:
 Python 3.x installed,
 Required libraries: tkinter, sqlite3, pyinstaller.
 
