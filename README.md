@@ -1,10 +1,5 @@
  <sup></sup><sub>----------------------------------------------- Print("Hello the Internet!") ------------------------------------------------------------------</sub>
 
-### <ins>***Table of Content***</ins>
-   ###### [- Intro - About Me](#Intro_AboutMe)
-   ###### [- Projects Menu](#Project_Menu)
-
-
 ### <ins>***Intro_AboutMe***</ins>
   Hello! I’m Tweet, a Computer Science graduate from 2024 with a deep passion for software development. This portfolio showcases the projects and practices that have helped me grow as a developer, reflecting my continuous journey in exploring and learning new technologies. I’m always eager to tackle new challenges and refine my skills through hands-on experience. The projects you’ll find here are a testament to my commitment to growth and innovation, and my dedication to staying current with industry best practices. I’m excited to continue evolving as a developer, and I look forward to further expanding my knowledge and expertise.
 
@@ -113,4 +108,11 @@ The machine is activated by pressing a button and continues running until the bu
  <sup></sup><sub>[Reference: POPRHINO , ](https://www.wayfair.com/pet/pdp/poprhino-remote-control-pet-chase-toy-for-outdoor-exercise-training-suitable-for-dogs-pprh1035.html)</sub> 
  <sup></sup><sub>[Generic , ](https://www.amazon.com/Generic-Treadmill-Continuous-Backyard-Electric/dp/B0D9DJ76HB/ref=asc_df_B0D9DJ76HB?mcid=4ac98acad49133a795ebdc98ec5c1b75&tag=hyprod-20&linkCode=df0&hvadid=697654782231&hvpos=&hvnetw=g&hvrand=2403657064496655038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016168&hvtargid=pla-2336352648465&psc=1)</sub>
  <sup></sup><sub>[SwiftPaws](https://www.amazon.com/SwiftPaws-Original-Controlled-Interactive-Enrichment/dp/B08L82BYPX/ref=pd_ci_mcx_pspc_dp_2_t_3?pd_rd_w=ayaMW&content-id=amzn1.sym.cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_p=cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_r=1VW3FMEGQ5YH15JT7AK4&pd_rd_wg=Xnnth&pd_rd_r=503c8d0e-f486-404d-90a1-5583d4a48209&pd_rd_i=B08L82BYPX)</sub>
+
+
+ 
+### <ins>***Table of Content***</ins>
+   ###### [- Intro - About Me](#Intro_AboutMe)
+   ###### [- Projects Menu](#Project_Menu)
+
  
