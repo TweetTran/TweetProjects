@@ -359,7 +359,5 @@ view["columns"] = columns_name
 for i in view["columns"]:
     view.column(i, anchor = W, width = 250)
     view.heading(i, text = i, anchor = W)
-
-
-
+          
 root.mainloop()
